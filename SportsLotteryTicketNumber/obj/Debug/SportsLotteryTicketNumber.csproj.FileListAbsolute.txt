@@ -1,0 +1,9 @@
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\bin\Debug\SportsLotteryTicketNumber.exe.config
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\bin\Debug\SportsLotteryTicketNumber.exe
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\bin\Debug\SportsLotteryTicketNumber.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\obj\Debug\SportsLotteryTicketNumber.csprojResolveAssemblyReference.cache
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\obj\Debug\SportsLotteryTicketNumber.FrmMain.resources
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\obj\Debug\SportsLotteryTicketNumber.Properties.Resources.resources
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\obj\Debug\SportsLotteryTicketNumber.csproj.GenerateResource.Cache
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\obj\Debug\SportsLotteryTicketNumber.exe
+C:\2Study\Xiketang Code\CoursePractice\Course1\SportsLotteryTicketNumber\SportsLotteryTicketNumber\obj\Debug\SportsLotteryTicketNumber.pdb
